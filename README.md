@@ -1,7 +1,6 @@
 # lld
-lld
 
-repo code: https://drive.google.com/drive/folders/1vmWNOUHZ2nwkX95QBhJmPclyllyr_a0X
+Repo code: https://drive.google.com/drive/folders/1vmWNOUHZ2nwkX95QBhJmPclyllyr_a0X
 
 LLD codes for
   1. Pen
